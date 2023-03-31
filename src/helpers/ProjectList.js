@@ -1,3 +1,4 @@
+import Capture from "../assets/Capture.PNG";
 import Drergashov from "../assets/drergashov.PNG";
 import Namanganvxtb from "../assets/namanganvxtb.PNG";
 import Ifor from "../assets/ifor.PNG";
@@ -10,6 +11,14 @@ import Calc from "../assets/Calc.PNG";
 import Payment from "../assets/payment.PNG";
 
 export const ProjectList = [
+  {
+    name: "Online Shopping",
+    image: Capture,
+    skills: ["JavaScript", "Html", "Css"],
+    link: "https://joxashopping.netlify.app/",
+    github: "https://github.com/javohir7777/online_shopping",
+    domen: "joxashopping.netlify.app",
+  },
   {
     name: "Physics teacher",
     image: Energiyat,
@@ -37,7 +46,7 @@ export const ProjectList = [
   {
     name: "Hospital Medcare Website",
     image: Medcare,
-    skills: ["JavaScript", "HTML", "CSS"],
+    skills: ["JavaScript", "Html", "Css"],
     link: "http://jamshid-dev.lovestoblog.com/Hospital/index.html",
     github: "Github source code is private",
     domen: "Hospital.uz",
