@@ -15,7 +15,7 @@ export const ProjectList = [
     name: "Online Shopping",
     image: Capture,
     skills: ["JavaScript", "Html", "Css"],
-    link: "https://joxashopping.netlify.app/",
+    link: "https://joxashopping.netlify.app",
     github: "https://github.com/javohir7777/online_shopping",
     domen: "joxashopping.netlify.app",
   },
